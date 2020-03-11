@@ -1,0 +1,20 @@
+{
+  "name": "Redux-Asynchronous-Actions-lab38",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goorob-401-advanced-javascript/Redux-Asynchronous-Actions-lab38.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goorob-401-advanced-javascript/Redux-Asynchronous-Actions-lab38/issues"
+  },
+  "homepage": "https://github.com/Goorob-401-advanced-javascript/Redux-Asynchronous-Actions-lab38#readme"
+}
